@@ -1,1 +1,1 @@
-hi I'm good
+Welcome to my GitHub profile!
